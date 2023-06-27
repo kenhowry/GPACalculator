@@ -1,0 +1,8 @@
+ENGL, A, 4
+MATH, A, 4
+PSYC, B-, 4.5
+COMP, A-, 2
+COMP, B+, 3
+MATH, C, 4
+PSYC, B-, 4
+COMP, F, 4

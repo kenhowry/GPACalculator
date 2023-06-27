@@ -1,0 +1,9 @@
+from gpa import GPA_Calc
+
+def test_one():
+    student = GPA_Calc("COMP", "MATH")
+    student.locate_file("873256025")
+
+    assert print(student.major_gpa()) == 1.92
+    assert print(student.minor_gpa()) == 3.00
+    assert print(student.overall_gpa()) == 2.71
